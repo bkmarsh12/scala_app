@@ -4,7 +4,6 @@
 object ScalaApp {
   def main(args: Array[String]): Unit = {
     println("Scala Hello!")
-    println("My First Scala Program")
   }
 }
 
